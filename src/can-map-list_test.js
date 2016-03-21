@@ -1,4 +1,4 @@
-require('can/map/list/list');
+require('./can-map-list');
 require('steal-qunit');
 
 QUnit.module('can/map/list');
