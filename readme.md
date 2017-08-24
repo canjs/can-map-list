@@ -1,5 +1,7 @@
 # can-map-list
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-map-list.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/canjs/can-map-list.png?branch=master)](https://travis-ci.org/canjs/can-map-list)
 
 Live-updating mapped and filtered observe lists
